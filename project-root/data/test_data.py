@@ -1,9 +1,9 @@
 # data/test_data.py
 class TestData:
 
-    VALID_PHONE = "+79640849785"
-    CONFIRMATION_CODE = "3379"
-    EMAIL = "akusokekaterina@gmail.com"
+    VALID_PHONE = ""
+    CONFIRMATION_CODE = ""
+    EMAIL = ""
 
     SEARCH_AUTHOR = "Михаил Булгаков"
     SEARCH_BOOK = "Мастер и Маргарита"
@@ -16,17 +16,18 @@ class TestData:
     API_CREDENTIALS = {
         "username": "test_user",
         "password": "test_password",
-        "email": "akusokekaterina@gmail.com",
-        "phone": "+79640849785"
+        "email": "",
+        "phone": "5"
     }
 
     USER_PROFILE_DATA = {
-        "id": 22335519,
-        "email": "akusokekaterina@gmail.com",
-        "phone": "+79640849785",
-        "firstName": "Екатерина",
-        "lastName": "Акусок"
+        "id": ,
+        "email": "",
+        "phone": "",
+        "firstName": "",
+        "lastName": ""
     }
 
 
 test_data = TestData()
+
