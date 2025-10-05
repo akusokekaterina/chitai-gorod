@@ -1,5 +1,3 @@
-# tests/test_api.py
-"""API tests for Chitai-Gorod website."""
 import allure
 from data.test_data import test_data
 
